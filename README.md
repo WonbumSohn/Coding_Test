@@ -1,1 +1,5 @@
-This is a study note for my coding test.
+#   Study Note
+
+This is my study note to prepare for a coding test.
+
+
